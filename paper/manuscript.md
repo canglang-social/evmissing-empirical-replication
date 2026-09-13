@@ -62,7 +62,9 @@ The frozen upstream-retrieval candidate passed its first uninterrupted local acc
 The contribution is empirical computational replication. It excludes the original simulation-performance study, new statistical methodology, validation of informative missingness or dependence, and raw Brest gauge processing. The small development calibration is described only in the supplement and supports no simulation-performance claim. Numerical agreement with two applications does not establish general statistical performance or independent scientific novelty.
 
 
-OpenAI Codex assisted Python implementation, evidence organization, manuscript drafting and document preparation. NumPy/SciPy performed numerical calculations; Matplotlib produced the diagnostic graphics. These tools do not supply independent scientific validation. Felix Han is responsible for reviewing and approving the submitted claims. Public data-release arrangements are recorded separately.
+OpenAI Codex was used for implementation, analysis and drafting; the author takes responsibility for the submitted work.
+
+NumPy/SciPy performed numerical calculations; Matplotlib produced the diagnostic graphics. These tools do not supply independent scientific validation. Public data-release arrangements are recorded separately.
 
 
 ## References
