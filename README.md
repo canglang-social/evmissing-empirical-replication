@@ -21,5 +21,3 @@ Setup downloads the two pinned upstream archives and verifies their SHA256 hashe
 The single bounded local acceptance passed: 113/120 primary comparisons, all 48 printed endpoints and 96 solver checks. Seven primary discrepancies remain, with separate reference-optimizer evidence. Existing dependencies were used; fresh installation and another machine were not tested. Historical reference calculations are retained evidence, not re-executed by this advertised chain.
 
 Code: GPL-3.0-or-later. Article and author-created supplementary prose/figures: CC BY 4.0, limited to the author's rights. Third-party source, observations and published comparison targets retain their own rights and notices. See [licence scope](LICENSE-SCOPE.md).
-
-OpenAI Codex assisted implementation, evidence organization and drafting; NumPy/SciPy performed calculations and Matplotlib produced diagnostic plots. The named human author is responsible for the work. This repository is a replication submission candidate, not evidence of journal acceptance.
