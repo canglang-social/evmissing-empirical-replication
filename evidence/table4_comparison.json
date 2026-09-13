@@ -1,0 +1,666 @@
+{
+  "total": 60,
+  "passed": 55,
+  "checks": [
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "par0",
+      "actual": 128.77623111313642,
+      "published": 128.77,
+      "difference": 0.006231113136408339,
+      "pass": false
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "par1",
+      "actual": 18.805576511460558,
+      "published": 18.81,
+      "difference": -0.004423488539440967,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "par2",
+      "actual": 0.0009715539981854908,
+      "published": 0,
+      "difference": 0.0009715539981854908,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "se0",
+      "actual": 4.40171507062617,
+      "published": 4.4,
+      "difference": 0.0017150706261697124,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "se1",
+      "actual": 2.633604033262072,
+      "published": 2.63,
+      "difference": 0.003604033262071926,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "se2",
+      "actual": 0.15845407788831473,
+      "published": 0.16,
+      "difference": -0.0015459221116852773,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "return25",
+      "actual": 189.02006874192227,
+      "published": 189,
+      "difference": 0.020068741922273148,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "lower25",
+      "actual": 168.35794402072804,
+      "published": 168,
+      "difference": 0.3579440207280413,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "upper25",
+      "actual": 259.2622626368199,
+      "published": 259,
+      "difference": 0.26226263681991213,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "return50",
+      "actual": 202.29369934949335,
+      "published": 202,
+      "difference": 0.29369934949335175,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "lower50",
+      "actual": 175.3314285256251,
+      "published": 175,
+      "difference": 0.33142852562511393,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "upper50",
+      "actual": 308.71795435251903,
+      "published": 309,
+      "difference": -0.2820456474809703,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "return100",
+      "actual": 215.4782935181594,
+      "published": 216,
+      "difference": -0.5217064818405959,
+      "pass": false
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "lower100",
+      "actual": 180.84319969101082,
+      "published": 181,
+      "difference": -0.15680030898917607,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        true
+      ],
+      "field": "upper100",
+      "actual": 370.0528307881992,
+      "published": 370,
+      "difference": 0.05283078819917364,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "par0",
+      "actual": 126.51918630424795,
+      "published": 126.52,
+      "difference": -0.0008136957520434862,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "par1",
+      "actual": 25.503721319701043,
+      "published": 25.5,
+      "difference": 0.0037213197010430576,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "par2",
+      "actual": -0.28226355008322757,
+      "published": -0.28,
+      "difference": -0.002263550083227539,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "se0",
+      "actual": 5.5268578858455,
+      "published": 5.53,
+      "difference": -0.003142114154500497,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "se1",
+      "actual": 3.997957108718209,
+      "published": 4,
+      "difference": -0.002042891281790915,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "se2",
+      "actual": 0.15185259659887101,
+      "published": 0.15,
+      "difference": 0.0018525965988710202,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "return25",
+      "actual": 180.24196116283463,
+      "published": 180,
+      "difference": 0.24196116283462743,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "lower25",
+      "actual": 168.51478360836683,
+      "published": 169,
+      "difference": -0.4852163916331733,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "upper25",
+      "actual": 214.7845264269672,
+      "published": 215,
+      "difference": -0.21547357303279568,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "return50",
+      "actual": 186.83847097541462,
+      "published": 187,
+      "difference": -0.1615290245853771,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "lower50",
+      "actual": 174.35585000721352,
+      "published": 174,
+      "difference": 0.3558500072135189,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "upper50",
+      "actual": 234.7722889313766,
+      "published": 235,
+      "difference": -0.22771106862339252,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "return100",
+      "actual": 192.21096853645096,
+      "published": 192,
+      "difference": 0.21096853645096303,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "lower100",
+      "actual": 178.70182154869164,
+      "published": 179,
+      "difference": -0.2981784513083596,
+      "pass": true
+    },
+    {
+      "condition": [
+        false,
+        false
+      ],
+      "field": "upper100",
+      "actual": 255.43705289120348,
+      "published": 255,
+      "difference": 0.43705289120347857,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "par0",
+      "actual": 129.55235940619167,
+      "published": 129.55,
+      "difference": 0.0023594061916583087,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "par1",
+      "actual": 17.657292743067025,
+      "published": 17.65,
+      "difference": 0.007292743067026208,
+      "pass": false
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "par2",
+      "actual": 0.04151579478549392,
+      "published": 0.04,
+      "difference": 0.0015157947854939208,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "se0",
+      "actual": 4.605521290369489,
+      "published": 4.6,
+      "difference": 0.005521290369489229,
+      "pass": false
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "se1",
+      "actual": 3.4057814269166373,
+      "published": 3.41,
+      "difference": -0.00421857308336282,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "se2",
+      "actual": 0.26491310273879254,
+      "published": 0.26,
+      "difference": 0.00491310273879253,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "return25",
+      "actual": 189.951265688182,
+      "published": 190,
+      "difference": -0.048734311818009246,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "lower25",
+      "actual": 168.23596504968145,
+      "published": 168,
+      "difference": 0.23596504968145382,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "upper25",
+      "actual": 329.775307778419,
+      "published": 330,
+      "difference": -0.22469222158099456,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "return50",
+      "actual": 204.34440989602172,
+      "published": 204,
+      "difference": 0.3444098960217161,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "lower50",
+      "actual": 175.07332732828388,
+      "published": 175,
+      "difference": 0.07332732828388089,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "upper50",
+      "actual": 461.3932979961701,
+      "published": 461,
+      "difference": 0.39329799617007666,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "return100",
+      "actual": 219.05304605143073,
+      "published": 219,
+      "difference": 0.05304605143072649,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "lower100",
+      "actual": 180.21525858545,
+      "published": 180,
+      "difference": 0.21525858544998755,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        true
+      ],
+      "field": "upper100",
+      "actual": 668.4748318383649,
+      "published": 668,
+      "difference": 0.4748318383649348,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "par0",
+      "actual": 128.58617507493705,
+      "published": 128.59,
+      "difference": -0.003824925062957618,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "par1",
+      "actual": 17.777387668074248,
+      "published": 17.78,
+      "difference": -0.002612331925753608,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "par2",
+      "actual": 0.03557925622824129,
+      "published": 0.04,
+      "difference": -0.00442074377175871,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "se0",
+      "actual": 4.54483154057557,
+      "published": 4.55,
+      "difference": -0.00516845942442945,
+      "pass": false
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "se1",
+      "actual": 3.6079068895385884,
+      "published": 3.61,
+      "difference": -0.0020931104614114737,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "se2",
+      "actual": 0.26853900939727776,
+      "published": 0.27,
+      "difference": -0.0014609906027222563,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "return25",
+      "actual": 188.80953092251468,
+      "published": 189,
+      "difference": -0.19046907748531794,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "lower25",
+      "actual": 167.70208532234201,
+      "published": 168,
+      "difference": -0.2979146776579853,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "upper25",
+      "actual": 324.2655894843984,
+      "published": 324,
+      "difference": 0.26558948439839014,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "return50",
+      "actual": 202.99821647645604,
+      "published": 203,
+      "difference": -0.0017835235439633834,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "lower50",
+      "actual": 174.64319925140273,
+      "published": 175,
+      "difference": -0.35680074859726574,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "upper50",
+      "actual": 453.77988741867534,
+      "published": 454,
+      "difference": -0.22011258132465628,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "return100",
+      "actual": 217.43771553334062,
+      "published": 217,
+      "difference": 0.4377155333406222,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "lower100",
+      "actual": 179.8566999995905,
+      "published": 180,
+      "difference": -0.14330000040951063,
+      "pass": true
+    },
+    {
+      "condition": [
+        true,
+        false
+      ],
+      "field": "upper100",
+      "actual": 658.2711825940527,
+      "published": 658,
+      "difference": 0.2711825940526751,
+      "pass": true
+    }
+  ]
+}

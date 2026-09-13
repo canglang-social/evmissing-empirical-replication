@@ -1,0 +1,49 @@
+{
+  "status": "completed",
+  "stages": [
+    {
+      "dataset": "plymouth",
+      "stage": "aggregate",
+      "exit_code": 0,
+      "output_sha256": "ae5ad52be9204988a8acbf4371497c6ecbdf6ef1e572ce9c42bace4e66538649",
+      "status": "passed"
+    },
+    {
+      "dataset": "plymouth",
+      "stage": "fit",
+      "exit_code": 0,
+      "output_sha256": "639b2c458ea65f2471eddad29b71baf50f9502f212b4aed833253d4f1861dded",
+      "status": "passed"
+    },
+    {
+      "dataset": "plymouth",
+      "stage": "audit",
+      "exit_code": 0,
+      "output_sha256": "ae0144c4294af5951e8d289227e20ea84f6d889d16ca5a6f5dffdd9ceaf01d67",
+      "status": "passed"
+    },
+    {
+      "dataset": "brest",
+      "stage": "aggregate",
+      "exit_code": 0,
+      "output_sha256": "2215b5d52601e20fea876bf89a2c384e036632b50a59d4c6d5c550d66594b513",
+      "status": "passed"
+    },
+    {
+      "dataset": "brest",
+      "stage": "fit",
+      "exit_code": 0,
+      "output_sha256": "d7da519cf40a6141348e7df050bc2ba98d35d88e695e27489ce46e27daccf5b7",
+      "status": "passed"
+    },
+    {
+      "dataset": "brest",
+      "stage": "audit",
+      "exit_code": 0,
+      "output_sha256": "95d7eedffda4c3a00b371775eae5dbe86bb72850fcadbc8913ab07191e39607c",
+      "status": "passed"
+    }
+  ],
+  "new_simulation_datasets": 0,
+  "wall_seconds": 21.777729875058867
+}

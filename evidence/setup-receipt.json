@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "sources": [
+    {
+      "file": "evmissing_1.0.2.tar.gz",
+      "url": "https://cran.r-project.org/src/contrib/evmissing_1.0.2.tar.gz",
+      "sha256": "d3d6477f9df384dc6a735bdd50bf6d5e9b2aa6c09ca2f7884d14be9f1c06e6b5",
+      "bytes": 158196
+    },
+    {
+      "file": "Renext_3.1-4.tar.gz",
+      "url": "https://cran.r-project.org/src/contrib/Archive/Renext/Renext_3.1-4.tar.gz",
+      "sha256": "704ee817cd7751d3683d7c484cad2960425bae937a49ad92c6007919654d6f9f",
+      "bytes": 1332887
+    }
+  ],
+  "licence_cleared": false,
+  "annual_reference_rows": 162,
+  "wall_seconds": 5.789964083000086
+}

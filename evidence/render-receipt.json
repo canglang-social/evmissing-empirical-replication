@@ -1,0 +1,23 @@
+{
+  "matplotlib_version": "3.10.7",
+  "input_sha256": "f389944b14f5bd5c7bdaa543f443d4fe2c95d0177685e00465fad2402471f4d7",
+  "figures": [
+    {
+      "dataset": "Plymouth",
+      "panels": 8,
+      "paths": [
+        "results/figures/plymouth-diagnostics.png",
+        "results/figures/plymouth-diagnostics.svg"
+      ]
+    },
+    {
+      "dataset": "Brest",
+      "panels": 8,
+      "paths": [
+        "results/figures/brest-diagnostics.png",
+        "results/figures/brest-diagnostics.svg"
+      ]
+    }
+  ],
+  "public_copy_note": "Absolute workspace prefix removed from file paths; original private receipt retained. Values and results unchanged."
+}

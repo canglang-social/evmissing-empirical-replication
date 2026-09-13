@@ -1,0 +1,45 @@
+{
+  "conditions": [
+    {
+      "remove": true,
+      "adjust": true,
+      "initial": [
+        53.83132207443146,
+        11.553966279955457,
+        0.0
+      ],
+      "par": [
+        52.840733883729875,
+        11.925930995060266,
+        -0.030013072455405673
+      ],
+      "return100": 104.0830490718224,
+      "nll": 599.8141003648128,
+      "fail": 0,
+      "optimizer_evaluations": 89
+    },
+    {
+      "remove": true,
+      "adjust": false,
+      "initial": [
+        53.83132207443146,
+        11.553966279955457,
+        0.0
+      ],
+      "par": [
+        52.569771175759215,
+        12.00752650844553,
+        -0.03192665437759733
+      ],
+      "return100": 103.9414645466361,
+      "nll": 600.8987029392233,
+      "fail": 0,
+      "optimizer_evaluations": 101
+    }
+  ],
+  "objective_evaluations": 190,
+  "cpu_seconds": 1.7868300000000001,
+  "wall_seconds": 2.3380856659496203,
+  "source_sha256": "b96c51ec4f69a38210304d82b55b2b15a5e769dc9769319fd567fa41cc27989d",
+  "label": "R nmmin body with local platform shims; independent density, not full R package execution"
+}

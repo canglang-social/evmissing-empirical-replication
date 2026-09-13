@@ -1,0 +1,566 @@
+{
+  "total": 60,
+  "passed": 58,
+  "failures": [
+    {
+      "condition": 2,
+      "field": "par",
+      "index": 1,
+      "observed": 11.924808852012674,
+      "target": 11.93,
+      "error": 0.005191147987325451,
+      "pass_check": false
+    },
+    {
+      "condition": 3,
+      "field": "par",
+      "index": 1,
+      "observed": 12.004301677790554,
+      "target": 12.01,
+      "error": 0.00569832220944555,
+      "pass_check": false
+    }
+  ],
+  "rows": [
+    {
+      "condition": 0,
+      "field": "par",
+      "index": 0,
+      "observed": 52.88817492962392,
+      "target": 52.89,
+      "error": 0.0018250703760784859,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "par",
+      "index": 1,
+      "observed": 11.843321930898888,
+      "target": 11.84,
+      "error": 0.0033219308988883256,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "par",
+      "index": 2,
+      "observed": -0.023815456871349595,
+      "target": -0.02,
+      "error": 0.003815456871349595,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "se",
+      "index": 0,
+      "observed": 1.0653692813150764,
+      "target": 1.07,
+      "error": 0.004630718684923707,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "se",
+      "index": 1,
+      "observed": 0.7361110520599653,
+      "target": 0.74,
+      "error": 0.0038889479400346927,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "se",
+      "index": 2,
+      "observed": 0.04448761577238737,
+      "target": 0.04,
+      "error": 0.00448761577238737,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "estimate",
+      "period": 25,
+      "observed": 89.36259899899007,
+      "target": 89.4,
+      "error": 0.037401001009939705,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "endpoint_0",
+      "period": 25,
+      "observed": 84.0215446392147,
+      "target": 84.0,
+      "error": 0.02154463921469585,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "endpoint_1",
+      "period": 25,
+      "observed": 97.59380221218632,
+      "target": 97.6,
+      "error": 0.006197787813675859,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "estimate",
+      "period": 50,
+      "observed": 97.01792824990542,
+      "target": 97.0,
+      "error": 0.017928249905423854,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "endpoint_0",
+      "period": 50,
+      "observed": 90.34215977690357,
+      "target": 90.3,
+      "error": 0.0421597769035742,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "endpoint_1",
+      "period": 50,
+      "observed": 108.52751612276478,
+      "target": 108.5,
+      "error": 0.027516122764779993,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "estimate",
+      "period": 100,
+      "observed": 104.49095854182718,
+      "target": 104.5,
+      "error": 0.009041458172816874,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "endpoint_0",
+      "period": 100,
+      "observed": 96.25497689448927,
+      "target": 96.3,
+      "error": 0.045023105510722417,
+      "pass_check": true
+    },
+    {
+      "condition": 0,
+      "field": "endpoint_1",
+      "period": 100,
+      "observed": 120.055318919766,
+      "target": 120.1,
+      "error": 0.04468108023399964,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "par",
+      "index": 0,
+      "observed": 52.27159729306599,
+      "target": 52.27,
+      "error": 0.0015972930659842177,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "par",
+      "index": 1,
+      "observed": 12.088767509441073,
+      "target": 12.09,
+      "error": 0.0012324905589267132,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "par",
+      "index": 2,
+      "observed": -0.030113320876883724,
+      "target": -0.03,
+      "error": 0.00011332087688372544,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "se",
+      "index": 0,
+      "observed": 1.072815982958697,
+      "target": 1.07,
+      "error": 0.0028159829586968943,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "se",
+      "index": 1,
+      "observed": 0.7616227279694484,
+      "target": 0.76,
+      "error": 0.001622727969448401,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "se",
+      "index": 2,
+      "observed": 0.043858511552964545,
+      "target": 0.04,
+      "error": 0.003858511552964544,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "estimate",
+      "period": 25,
+      "observed": 89.13416666346946,
+      "target": 89.1,
+      "error": 0.03416666346946329,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "endpoint_0",
+      "period": 25,
+      "observed": 83.86842005162528,
+      "target": 83.9,
+      "error": 0.031579948374726996,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "endpoint_1",
+      "period": 25,
+      "observed": 97.13651189157633,
+      "target": 97.1,
+      "error": 0.03651189157633894,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "estimate",
+      "period": 50,
+      "observed": 96.77542805129066,
+      "target": 96.8,
+      "error": 0.024571948709336766,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "endpoint_0",
+      "period": 50,
+      "observed": 90.2342665165538,
+      "target": 90.2,
+      "error": 0.03426651655379942,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "endpoint_1",
+      "period": 50,
+      "observed": 107.93546844900888,
+      "target": 107.9,
+      "error": 0.03546844900887436,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "estimate",
+      "period": 100,
+      "observed": 104.20187498163907,
+      "target": 104.2,
+      "error": 0.0018749816390624119,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "endpoint_0",
+      "period": 100,
+      "observed": 96.17451732966498,
+      "target": 96.2,
+      "error": 0.025482670335023272,
+      "pass_check": true
+    },
+    {
+      "condition": 1,
+      "field": "endpoint_1",
+      "period": 100,
+      "observed": 119.2694310768017,
+      "target": 119.3,
+      "error": 0.0305689231983024,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "par",
+      "index": 0,
+      "observed": 52.84094654894881,
+      "target": 52.84,
+      "error": 0.0009465489488036383,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "par",
+      "index": 1,
+      "observed": 11.924808852012674,
+      "target": 11.93,
+      "error": 0.005191147987325451,
+      "pass_check": false
+    },
+    {
+      "condition": 2,
+      "field": "par",
+      "index": 2,
+      "observed": -0.02993288394709156,
+      "target": -0.03,
+      "error": 6.711605290844053e-05,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "se",
+      "index": 0,
+      "observed": 1.0759642143543438,
+      "target": 1.08,
+      "error": 0.00403578564565632,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "se",
+      "index": 1,
+      "observed": 0.7518298319880199,
+      "target": 0.75,
+      "error": 0.001829831988019892,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "se",
+      "index": 2,
+      "observed": 0.043008211044357945,
+      "target": 0.04,
+      "error": 0.0030082110443579446,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "estimate",
+      "period": 25,
+      "observed": 89.21387943745623,
+      "target": 89.2,
+      "error": 0.013879437456225219,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "endpoint_0",
+      "period": 25,
+      "observed": 83.9474993922008,
+      "target": 83.9,
+      "error": 0.047499392200791135,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "endpoint_1",
+      "period": 25,
+      "observed": 97.20433980092939,
+      "target": 97.2,
+      "error": 0.0043398009293866835,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "estimate",
+      "period": 50,
+      "observed": 96.75633163348535,
+      "target": 96.8,
+      "error": 0.04366836651465178,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "endpoint_0",
+      "period": 50,
+      "observed": 90.23276256223748,
+      "target": 90.2,
+      "error": 0.03276256223747964,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "endpoint_1",
+      "period": 50,
+      "observed": 107.8393437300878,
+      "target": 107.8,
+      "error": 0.03934373008780767,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "estimate",
+      "period": 100,
+      "observed": 104.08767416404694,
+      "target": 104.1,
+      "error": 0.012325835953049591,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "endpoint_0",
+      "period": 100,
+      "observed": 96.10471778543933,
+      "target": 96.1,
+      "error": 0.00471778543933965,
+      "pass_check": true
+    },
+    {
+      "condition": 2,
+      "field": "endpoint_1",
+      "period": 100,
+      "observed": 118.98401511870566,
+      "target": 119.0,
+      "error": 0.015984881294343722,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "par",
+      "index": 0,
+      "observed": 52.56879975173099,
+      "target": 52.57,
+      "error": 0.0012002482690078864,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "par",
+      "index": 1,
+      "observed": 12.004301677790554,
+      "target": 12.01,
+      "error": 0.00569832220944555,
+      "pass_check": false
+    },
+    {
+      "condition": 3,
+      "field": "par",
+      "index": 2,
+      "observed": -0.03198746617166348,
+      "target": -0.03,
+      "error": 0.0019874661716634823,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "se",
+      "index": 0,
+      "observed": 1.0764970490721322,
+      "target": 1.08,
+      "error": 0.0035029509278678983,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "se",
+      "index": 1,
+      "observed": 0.7600462208598974,
+      "target": 0.76,
+      "error": 4.6220859897361244e-05,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "se",
+      "index": 2,
+      "observed": 0.04268890090216267,
+      "target": 0.04,
+      "error": 0.002688900902162672,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "estimate",
+      "period": 25,
+      "observed": 89.06606538505959,
+      "target": 89.1,
+      "error": 0.033934614940406505,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "endpoint_0",
+      "period": 25,
+      "observed": 83.83543120076853,
+      "target": 83.8,
+      "error": 0.035431200768528015,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "endpoint_1",
+      "period": 25,
+      "observed": 96.95209177773641,
+      "target": 97.0,
+      "error": 0.04790822226358671,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "estimate",
+      "period": 50,
+      "observed": 96.60363483037344,
+      "target": 96.6,
+      "error": 0.00363483037344281,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "endpoint_0",
+      "period": 50,
+      "observed": 90.13708715946026,
+      "target": 90.1,
+      "error": 0.037087159460270414,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "endpoint_1",
+      "period": 50,
+      "observed": 107.5279021111236,
+      "target": 107.5,
+      "error": 0.027902111123594864,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "estimate",
+      "period": 100,
+      "observed": 103.91968926346044,
+      "target": 103.9,
+      "error": 0.019689263460435313,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "endpoint_0",
+      "period": 100,
+      "observed": 96.02010999399558,
+      "target": 96.0,
+      "error": 0.020109993995575337,
+      "pass_check": true
+    },
+    {
+      "condition": 3,
+      "field": "endpoint_1",
+      "period": 100,
+      "observed": 118.59094421666336,
+      "target": 118.6,
+      "error": 0.009055783336634704,
+      "pass_check": true
+    }
+  ]
+}

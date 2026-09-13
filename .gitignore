@@ -1,0 +1,7 @@
+/sources/
+/data/
+/results/
+/setup-receipt.json
+__pycache__/
+.venv/
+.DS_Store

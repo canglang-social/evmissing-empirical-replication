@@ -1,0 +1,99 @@
+{
+  "title": "[Re] Independent computational replication of two block-maxima applications with missing observations",
+  "authors": [
+    {
+      "name": "Felix Han",
+      "orcid": null,
+      "email": "canglangzhuoxi@gmail.com",
+      "affiliations": "1,*"
+    }
+  ],
+  "affiliations": [
+    {
+      "code": 1,
+      "name": "Independent researcher",
+      "address": ""
+    }
+  ],
+  "keywords": "extreme value analysis, missing observations, computational replication, Python",
+  "code": [
+    {
+      "url": "https://github.com/canglang-social/evmissing-empirical-replication"
+    },
+    {
+      "doi": null
+    },
+    {
+      "swh": null
+    }
+  ],
+  "data": [
+    {
+      "url": "https://github.com/canglang-social/evmissing-empirical-replication/blob/main/DATA-PROVENANCE.md"
+    },
+    {
+      "doi": null
+    }
+  ],
+  "replication": [
+    {
+      "cite": "Simpson, E. S., and Northrop, P. J. (2026). Accounting for Missing Data When Modelling Block Maxima. Environmetrics 37(2), e70075."
+    },
+    {
+      "bib": "simpson2026"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2512.15429"
+    },
+    {
+      "doi": "10.1002/env.70075"
+    }
+  ],
+  "abstract": "We independently implemented the Plymouth ozone and Brest sea-surge applications of Simpson and Northrop (2026). Missingness adjustment changes the fitted 100-year return level more in Plymouth than in Brest: with all available years, adjusted versus naive estimates are 215.48 versus 192.21 μg/m³ and 104.49 versus 104.20 cm, respectively. Our primary calculations meet the frozen printed-value tolerances for 113 of 120 scalar comparisons, including all 48 published interval endpoints. Seven other values narrowly exceed those tolerances; a separate fixed reference-optimizer calculation explains their sensitivity to stopping behavior without replacing the primary results. This is a partial empirical replication, not a new method or a replication of the original simulation study.",
+  "bibliography": "bibliography.bib",
+  "type": "Replication",
+  "domain": "Statistics",
+  "language": "Python",
+  "review": [
+    {
+      "url": null
+    }
+  ],
+  "contributors": [],
+  "dates": [
+    {
+      "received": null
+    },
+    {
+      "accepted": null
+    },
+    {
+      "published": null
+    }
+  ],
+  "article": [
+    {
+      "number": null
+    },
+    {
+      "doi": null
+    },
+    {
+      "url": null
+    }
+  ],
+  "journal": [
+    {
+      "name": "ReScience C"
+    },
+    {
+      "issn": "2430-3658"
+    },
+    {
+      "volume": null
+    },
+    {
+      "issue": null
+    }
+  ]
+}
